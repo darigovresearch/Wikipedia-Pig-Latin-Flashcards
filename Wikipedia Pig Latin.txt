@@ -1,0 +1,75 @@
+What is Pig Latin?|<b>Pig Latin</b> (or, in Pig Latin, "Igpay Atinlay") is a <a href="/wiki/Language_game" title="Language game">language game</a> or <a href="/wiki/Argot" class="mw-redirect" title="Argot">argot</a> in which <a href="/wiki/English_language" title="English language">English</a> words are altered. 
+How is Pig Latin generated?|Usually by adding a fabricated <a href="/wiki/Suffix" title="Suffix">suffix</a> or by moving the <a href="/wiki/Syllable#Onset" title="Syllable">onset</a> or initial <a href="/wiki/Consonant" title="Consonant">consonant</a> or <a href="/wiki/Consonant_cluster" title="Consonant cluster">consonant cluster</a> of a word to the end of the word and adding a <a href="/wiki/Vocalic" class="mw-redirect" title="Vocalic">vocalic</a> <a href="/wiki/Syllable" title="Syllable">syllable</a> to create such a suffix.
+What is Pig Latin for "Wikipedia"?|Ikipediaway
+What is Pig English for "Ikipediaway"?|Wikipedia
+What is the objective of Pig Latin?|The objective is to <a href="/wiki/Obfuscation" title="Obfuscation">conceal the words</a> from others not familiar with the rules. 
+Why does Pig Latin reference Latin?|The reference to <a href="/wiki/Latin" title="Latin">Latin</a> is a deliberate <a href="/wiki/Misnomer" title="Misnomer">misnomer</a>; Pig Latin is simply a form of <a href="/wiki/Argot" class="mw-redirect" title="Argot">argot</a>, <a href="/wiki/Cant_(language)" title="Cant (language)">cant</a>, or <a href="/wiki/Jargon" title="Jargon">jargon</a> unrelated to Latin, and the name is used for its English connotations as a strange and foreign-sounding language. It is most often used by young children as a fun way to confuse people unfamiliar with Pig Latin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+How do you convert from English to Pig Latin for words that begin with <a href="/wiki/Consonant" title="Consonant">consonant</a> sounds?|For words that begin with <a href="/wiki/Consonant" title="Consonant">consonant</a> sounds, all letters before the initial vowel are placed at the end of the word sequence. Then, "ay" is added, as in the following examples:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+What is Pig Latin for "Pig Latin"?|Igpay Atinlay
+What is English for "Igpay Atinlay"?|Pig Latin
+What is Pig Latin for "pig"?|igpay
+What is Pig Latin for "latin"?|atinlay
+What is Pig Latin for "banana"?|ananabay
+What is Pig Latin for "will"?|illway
+What is Pig Latin for "butler"?|utlerbay
+What is Pig Latin for "happy"?|appyhay
+What is Pig Latin for "duck"?|uckday
+What is Pig Latin for "me"?|may
+What is Pig Latin for "bagel"?|agelbay
+What is Pig Latin for "history"?|istoryhay
+What is English for "igpay"?|pig
+What is English for "atinlay"?|latin
+What is English for "ananabay"?|banana
+What is English for "illway"?|will
+What is English for "utlerbay"?|butler
+What is English for "appyhay"?|happy
+What is English for "uckday"?|duck
+What is English for "may"?|me
+What is English for "agelbay"?|bagel
+What is English for "istoryhay"?|history
+How do you convert from English to Pig Latin when words begin with <a href="/wiki/Consonant_cluster" title="Consonant cluster">consonant clusters</a>?|When words begin with <a href="/wiki/Consonant_cluster" title="Consonant cluster">consonant clusters</a>, the whole sound is added to the end when speaking or writing.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+What is Pig Latin for "smile"?|ilesmay
+What is Pig Latin for "string"?|ingstray
+What is Pig Latin for "stupid"?|upidstay
+What is Pig Latin for "glove"?|oveglay
+What is Pig Latin for "trash"?|ashtray
+What is Pig Latin for "floor"?|oorflay
+What is Pig Latin for "store"?|orestay
+What is English for "ilesmay"?|smile
+What is English for "ingstray"?|string
+What is English for "upidstay"?|stupid
+What is English for "oveglay"?|glove
+What is English for "ashtray"?|trash
+What is English for "oorflay"?|floor
+What is English for "orestay"?|store
+How do you convert from English to Pig Latin for words that begin with vowel sounds?|For words that begin with vowel sounds, generally only a syllable 'yay' is appended to the end, with no modifications to the beginning onset. This convention is not universal; other suffixes such as 'way' or 'hay' are also used.
+What is Pig Latin for "eat"?|"eatyay" or "eatway" or "eathay"
+What is Pig Latin for "omelet"?|"omeletyay" or "omeletway" or "omelethay"
+What is Pig Latin for "are"?|"areyay" or "areway" or "arehay"
+What is Pig Latin for "egg"?|"eggyay" or "eggway" or "egghay"
+What is Pig Latin for "explain"?|"explainyay" or "explainway" or "explainhay"
+What is Pig Latin for "always"?|"alwaysyay" or "alwaysway" or "alwayshay"
+What is Pig Latin for "ends"?|"endsyay" or "endsay"
+What is Pig Latin for "amulet"?|"amuletyay" or "amuletway" or "amulethay"
+What is Pig Latin for "I"?|"Iyay" or "Iway" or "Ihay"
+What is English for "eatyay" or "eatway" or "eathay"?|eat
+What is English for "omeletyay" or "omeletway" or "omelethay"?|omelet
+What is English for "areyay" or "areway" or "arehay"?|are
+What is English for "eggyay" or "eggway" or "egghay"?|egg
+What is English for "explainyay" or "explainway" or "explainhay"?|explain
+What is English for "alwaysyay" or "alwaysway" or "alwayshay"?|always
+What is English for "endsyay" or "endsay"?|ends
+What is English for "amuletyay" or "amuletway" or "amulethay"?|amulet
+What is English for "Iyay" or "Iway" or "Ihay"?|I
+What is an alternative way to translate from English to Pig Latin for words beginning with vowel sounds?|An alternative for words beginning with vowel sounds has one remove the initial vowel(s) along with the first consonant or consonant cluster.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2019)">citation needed</span></a></i>&#93;</sup> This usually only works for words with more than one syllable and offers a variant of the words in keeping with the mysterious, unrecognizable sounds of the converted words.
+What is Pig Latin for "every"?|eryevay
+What is Pig Latin for "another"?|otheranay
+What is Pig Latin for "under"?|erunday
+What is Pig Latin for "island"?|andislay
+What is Pig Latin for "elegant"?|egantelay
+What is English for "eryevay"?|every
+What is English for "otheranay"?|another
+What is English for "erunday"?|under
+What is English for "andislay"?|island
+What is English for "egantelay"?|elegant
+How do you translate from English to Pig Latin when several words make one phrase?|When several words make one phrase, each word is changed the same way, e.g.: <i>my big sister</i> → <i>ymay igbay istersay</i>. Sentence structure remains the same as it would in <a href="/wiki/English_language" title="English language">English</a>. <a href="/wiki/Pronunciation" title="Pronunciation">Pronunciation</a> of some words may be a little difficult for beginners, but people can easily understand Pig Latin with practice.
