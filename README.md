@@ -2,7 +2,7 @@
 Repository containing Anki Flashcards &amp; source code to learn/revise Pig Latin
 
 ## Introduction
-This repository has taken definitions outlined in the Wikipedia article [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin) and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
+This repository contains content made from the Wikipedia article [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin) and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
 
 ## Notes
 Please note the modifications which have been made & where you can find updates.
@@ -17,7 +17,7 @@ If you want to just learn the words, download <a href="https://apps.ankiweb.net/
 Watch our video on an Introduction to Anki for a complete overview -> [https://www.youtube.com/watch?v=Dji_h7PILrw](https://www.youtube.com/watch?v=Dji_h7PILrw)
 
 ## Potential Improvements Yet to be Made
-1. To find a way to systematically pull the cards from source so that any corrections or additions are automatically updated.
+1. To find a way to systematically generate the cards from source so that any corrections or additions are automatically updated.
 
 ## Contributing
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
